@@ -76,7 +76,7 @@ img {
   background: url(img/iphone-dark-notebook-pen-34140.jpg);
   background-size: cover;
   background-position: center;
-  background-repeat:no-repeat;
+  background-repeat: no-repeat;
   padding: 3rem;
   display: flex;
   flex-direction: column;
